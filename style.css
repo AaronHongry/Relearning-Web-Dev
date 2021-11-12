@@ -1,0 +1,53 @@
+h1 {
+  line-height: 5px;
+}
+
+#title {
+  font-size: 40px;
+  color: #66FCF1;
+}
+
+#name {
+  font-size: 25px;
+  color: #45A29E;
+}
+
+nav {
+  display: block;
+  background-color: grey;
+  text-align: justify;
+}
+
+nav a:link, a:visited {
+  color: white
+}
+
+body {
+  margin-left: 10px;
+  font-family: Verdana;
+  font-weight: 600;
+  background-color: #1F2833;
+  color: #C5C6C7;
+  font-size: 16px;
+}
+
+ul, ol {
+  color: #45A29E;
+}
+
+#plan {
+  text-decoration: underline;
+}
+
+p a:visited, p a:active {
+  color: #CF85FF;
+
+}
+
+p a:hover {
+  color: white;
+}
+
+a {
+    text-decoration: none;
+}
